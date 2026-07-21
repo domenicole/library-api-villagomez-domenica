@@ -16,7 +16,7 @@ describe('calculateFine', () => {
 
 describe('isValidBookCode', () => {
     test('Acepta códigos válidos', () => {
-        expect(isValidBookCode('VIL101')).toBe(true);
+        expect(isValidBookCode('VIL102')).toBe(true);
     });
 
     test('Rechaza un código con formato inválido', () => {
