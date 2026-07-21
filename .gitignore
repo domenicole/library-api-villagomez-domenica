@@ -1,0 +1,21 @@
+#Node js
+node_modules/
+npm-debug.log*
+
+#variables de entorno
+.env
+.env.local
+
+#Pruebas
+coverage/
+
+#Sistema
+.DS_store
+
+#Logs
+*.log
+
+#Vercel
+.vercel/
+.vercel
+.env*
